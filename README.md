@@ -219,6 +219,11 @@ streamlit run app.py
 
 ---
 
+## 🌐 Live Demo
+
+[Click Here to Open Live App](https://python--personal-expense-tracker-with-data-visualization-qbu24.streamlit.app/)
+
+
 # 📊 Generated Outputs
 
 The project generates:
