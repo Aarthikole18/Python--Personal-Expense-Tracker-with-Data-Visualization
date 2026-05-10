@@ -275,7 +275,7 @@ This project is highly relevant for roles such as:
 
 Aarthi Kole
 
-First-Year Electrical & Electronics Engineering Student  
+Second-Year Electrical & Electronics Engineering Student  
 SDMCET Dharwad, Karnataka
 
 Passionate about:
