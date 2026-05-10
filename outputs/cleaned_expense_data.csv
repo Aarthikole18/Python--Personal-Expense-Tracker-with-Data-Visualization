@@ -1,0 +1,201 @@
+Date,Category,Amount,Payment_Method,Description,Month
+2025-01-31,Education,4453,Credit Card,Uber Ride,2025-01
+2025-04-20,Bills,1257,Credit Card,Electricity Bill,2025-04
+2025-03-30,Healthcare,3087,UPI,Amazon Purchase,2025-03
+2025-04-29,Education,533,UPI,Amazon Purchase,2025-04
+2025-03-28,Healthcare,4698,Credit Card,Uber Ride,2025-03
+2025-01-05,Transport,439,Cash,Books Purchase,2025-01
+2025-02-13,Food,2276,Credit Card,Movie Ticket,2025-02
+2025-02-20,Bills,4312,UPI,Movie Ticket,2025-02
+2025-04-24,Transport,2022,Cash,Books Purchase,2025-04
+2025-02-02,Healthcare,2251,UPI,Uber Ride,2025-02
+2025-01-14,Education,4521,Cash,Uber Ride,2025-01
+2025-04-17,Education,2167,Cash,Books Purchase,2025-04
+2025-02-01,Transport,2286,Credit Card,Uber Ride,2025-02
+2025-02-28,Bills,3264,Debit Card,Movie Ticket,2025-02
+2025-03-13,Healthcare,4172,Cash,Movie Ticket,2025-03
+2025-02-17,Bills,935,Credit Card,Medical Store,2025-02
+2025-02-18,Healthcare,1121,Credit Card,Medical Store,2025-02
+2025-01-13,Bills,4071,Debit Card,Movie Ticket,2025-01
+2025-04-08,Entertainment,1328,Debit Card,Medical Store,2025-04
+2025-04-11,Healthcare,4224,Credit Card,Restaurant,2025-04
+2025-02-06,Transport,4790,UPI,Uber Ride,2025-02
+2025-04-27,Bills,4753,UPI,Amazon Purchase,2025-04
+2025-03-20,Healthcare,798,UPI,Electricity Bill,2025-03
+2025-02-26,Healthcare,3950,Debit Card,Medical Store,2025-02
+2025-04-01,Shopping,785,Cash,Electricity Bill,2025-04
+2025-02-05,Transport,4414,Cash,Electricity Bill,2025-02
+2025-03-14,Education,628,Cash,Medical Store,2025-03
+2025-02-26,Transport,4963,UPI,Electricity Bill,2025-02
+2025-04-24,Entertainment,2654,UPI,Restaurant,2025-04
+2025-03-06,Healthcare,1621,UPI,Movie Ticket,2025-03
+2025-04-19,Education,4505,Debit Card,Electricity Bill,2025-04
+2025-04-09,Bills,2791,Cash,Movie Ticket,2025-04
+2025-02-26,Healthcare,1262,Credit Card,Movie Ticket,2025-02
+2025-04-10,Transport,3039,Credit Card,Books Purchase,2025-04
+2025-04-24,Healthcare,2591,UPI,Restaurant,2025-04
+2025-02-07,Healthcare,2604,Credit Card,Restaurant,2025-02
+2025-03-13,Transport,3994,Debit Card,Movie Ticket,2025-03
+2025-03-01,Transport,3757,UPI,Amazon Purchase,2025-03
+2025-02-25,Bills,621,Debit Card,Electricity Bill,2025-02
+2025-02-08,Entertainment,2800,Cash,Movie Ticket,2025-02
+2025-01-06,Food,3387,Credit Card,Medical Store,2025-01
+2025-04-05,Education,2252,UPI,Electricity Bill,2025-04
+2025-03-27,Bills,1351,UPI,Restaurant,2025-03
+2025-01-17,Shopping,565,Debit Card,Restaurant,2025-01
+2025-02-10,Entertainment,3357,Debit Card,Medical Store,2025-02
+2025-01-08,Education,1258,Credit Card,Restaurant,2025-01
+2025-01-20,Bills,1704,Credit Card,Electricity Bill,2025-01
+2025-02-23,Food,2773,UPI,Books Purchase,2025-02
+2025-02-10,Transport,2633,Credit Card,Medical Store,2025-02
+2025-03-29,Education,3912,UPI,Medical Store,2025-03
+2025-03-20,Transport,1615,Cash,Uber Ride,2025-03
+2025-04-18,Education,2278,Cash,Uber Ride,2025-04
+2025-04-30,Shopping,4808,Debit Card,Books Purchase,2025-04
+2025-01-04,Food,1746,Debit Card,Restaurant,2025-01
+2025-02-05,Shopping,4804,UPI,Electricity Bill,2025-02
+2025-03-30,Entertainment,4158,Cash,Books Purchase,2025-03
+2025-01-22,Shopping,4523,Cash,Electricity Bill,2025-01
+2025-04-18,Food,3384,Debit Card,Electricity Bill,2025-04
+2025-02-21,Education,2405,UPI,Electricity Bill,2025-02
+2025-02-02,Entertainment,1701,Cash,Electricity Bill,2025-02
+2025-04-19,Food,3955,Debit Card,Electricity Bill,2025-04
+2025-02-06,Bills,3075,Debit Card,Movie Ticket,2025-02
+2025-03-01,Healthcare,231,Cash,Medical Store,2025-03
+2025-03-13,Healthcare,1432,Debit Card,Movie Ticket,2025-03
+2025-04-24,Education,3250,UPI,Amazon Purchase,2025-04
+2025-02-22,Education,2634,Cash,Amazon Purchase,2025-02
+2025-02-04,Transport,4600,Debit Card,Books Purchase,2025-02
+2025-04-25,Entertainment,3707,Cash,Electricity Bill,2025-04
+2025-04-18,Food,4654,UPI,Amazon Purchase,2025-04
+2025-02-25,Food,1142,UPI,Amazon Purchase,2025-02
+2025-04-01,Bills,4510,Debit Card,Restaurant,2025-04
+2025-03-07,Transport,4035,Credit Card,Books Purchase,2025-03
+2025-02-02,Education,4208,UPI,Electricity Bill,2025-02
+2025-02-01,Bills,2884,UPI,Books Purchase,2025-02
+2025-04-04,Transport,2015,Credit Card,Restaurant,2025-04
+2025-04-12,Bills,3112,Credit Card,Books Purchase,2025-04
+2025-01-25,Entertainment,2183,UPI,Movie Ticket,2025-01
+2025-01-24,Transport,3655,Cash,Medical Store,2025-01
+2025-01-12,Bills,823,Debit Card,Electricity Bill,2025-01
+2025-04-10,Healthcare,347,Cash,Restaurant,2025-04
+2025-02-03,Healthcare,3786,Debit Card,Movie Ticket,2025-02
+2025-03-25,Healthcare,4678,Cash,Electricity Bill,2025-03
+2025-01-01,Shopping,4919,UPI,Movie Ticket,2025-01
+2025-03-30,Entertainment,4563,Debit Card,Electricity Bill,2025-03
+2025-03-06,Transport,1742,Cash,Restaurant,2025-03
+2025-03-01,Entertainment,1161,Debit Card,Movie Ticket,2025-03
+2025-03-30,Bills,189,UPI,Restaurant,2025-03
+2025-02-24,Bills,3811,Credit Card,Books Purchase,2025-02
+2025-01-25,Bills,1996,UPI,Amazon Purchase,2025-01
+2025-03-13,Bills,4767,Credit Card,Medical Store,2025-03
+2025-05-01,Shopping,3061,UPI,Books Purchase,2025-05
+2025-02-19,Food,4919,Debit Card,Electricity Bill,2025-02
+2025-01-09,Bills,4499,Debit Card,Amazon Purchase,2025-01
+2025-03-25,Transport,4209,Credit Card,Electricity Bill,2025-03
+2025-04-07,Transport,2486,Debit Card,Movie Ticket,2025-04
+2025-04-19,Transport,247,UPI,Restaurant,2025-04
+2025-03-27,Bills,4231,Credit Card,Uber Ride,2025-03
+2025-02-09,Entertainment,1113,Cash,Restaurant,2025-02
+2025-02-03,Transport,938,Cash,Books Purchase,2025-02
+2025-02-18,Bills,4598,Cash,Medical Store,2025-02
+2025-01-13,Transport,2967,Debit Card,Books Purchase,2025-01
+2025-05-01,Education,3138,UPI,Electricity Bill,2025-05
+2025-02-28,Bills,3710,Cash,Amazon Purchase,2025-02
+2025-03-18,Transport,408,Credit Card,Uber Ride,2025-03
+2025-02-26,Healthcare,4409,Cash,Uber Ride,2025-02
+2025-02-11,Shopping,3196,UPI,Books Purchase,2025-02
+2025-04-16,Shopping,5000,Credit Card,Uber Ride,2025-04
+2025-01-06,Transport,1645,Debit Card,Books Purchase,2025-01
+2025-01-18,Entertainment,421,Debit Card,Uber Ride,2025-01
+2025-02-23,Entertainment,1240,Credit Card,Restaurant,2025-02
+2025-03-27,Education,3295,UPI,Restaurant,2025-03
+2025-01-01,Shopping,3588,Debit Card,Restaurant,2025-01
+2025-02-10,Entertainment,3269,Credit Card,Electricity Bill,2025-02
+2025-01-05,Education,4944,UPI,Medical Store,2025-01
+2025-03-27,Shopping,4004,Debit Card,Medical Store,2025-03
+2025-04-07,Bills,1789,Cash,Amazon Purchase,2025-04
+2025-01-20,Education,1639,Cash,Amazon Purchase,2025-01
+2025-04-07,Healthcare,3998,Cash,Books Purchase,2025-04
+2025-02-07,Bills,4173,Debit Card,Medical Store,2025-02
+2025-04-20,Education,4939,Debit Card,Movie Ticket,2025-04
+2025-04-13,Healthcare,2486,Debit Card,Uber Ride,2025-04
+2025-03-26,Healthcare,4966,Debit Card,Restaurant,2025-03
+2025-02-14,Transport,384,Cash,Amazon Purchase,2025-02
+2025-04-01,Healthcare,2095,UPI,Restaurant,2025-04
+2025-04-06,Food,3258,Cash,Uber Ride,2025-04
+2025-02-10,Education,523,Debit Card,Medical Store,2025-02
+2025-01-14,Healthcare,1492,Credit Card,Books Purchase,2025-01
+2025-02-26,Education,3335,Debit Card,Books Purchase,2025-02
+2025-03-29,Entertainment,2804,Credit Card,Restaurant,2025-03
+2025-01-06,Bills,646,Debit Card,Electricity Bill,2025-01
+2025-02-19,Entertainment,4815,Credit Card,Amazon Purchase,2025-02
+2025-02-15,Healthcare,4774,Credit Card,Restaurant,2025-02
+2025-03-17,Education,564,Debit Card,Books Purchase,2025-03
+2025-05-01,Entertainment,215,UPI,Medical Store,2025-05
+2025-03-20,Bills,118,Cash,Movie Ticket,2025-03
+2025-01-19,Transport,1688,Debit Card,Restaurant,2025-01
+2025-03-17,Food,197,Debit Card,Uber Ride,2025-03
+2025-01-12,Shopping,1706,Debit Card,Uber Ride,2025-01
+2025-02-10,Entertainment,2246,Credit Card,Books Purchase,2025-02
+2025-01-26,Bills,1179,Credit Card,Medical Store,2025-01
+2025-03-10,Healthcare,1069,Debit Card,Restaurant,2025-03
+2025-04-23,Transport,4642,UPI,Movie Ticket,2025-04
+2025-01-17,Shopping,2591,Debit Card,Movie Ticket,2025-01
+2025-03-08,Education,1662,Cash,Movie Ticket,2025-03
+2025-01-19,Healthcare,3492,UPI,Uber Ride,2025-01
+2025-04-17,Healthcare,3388,Credit Card,Uber Ride,2025-04
+2025-01-06,Entertainment,931,Cash,Electricity Bill,2025-01
+2025-03-28,Bills,922,Credit Card,Uber Ride,2025-03
+2025-02-08,Entertainment,243,Cash,Medical Store,2025-02
+2025-02-18,Shopping,2143,Credit Card,Medical Store,2025-02
+2025-02-25,Bills,1406,Cash,Uber Ride,2025-02
+2025-02-01,Bills,1554,Credit Card,Uber Ride,2025-02
+2025-04-14,Education,4671,UPI,Electricity Bill,2025-04
+2025-04-07,Bills,832,UPI,Uber Ride,2025-04
+2025-03-05,Transport,4903,Credit Card,Restaurant,2025-03
+2025-01-08,Bills,2943,Credit Card,Movie Ticket,2025-01
+2025-01-24,Education,599,Credit Card,Movie Ticket,2025-01
+2025-04-24,Education,1486,Debit Card,Amazon Purchase,2025-04
+2025-01-25,Shopping,4225,UPI,Books Purchase,2025-01
+2025-02-20,Food,387,Cash,Uber Ride,2025-02
+2025-03-20,Food,1119,Cash,Books Purchase,2025-03
+2025-03-12,Shopping,484,UPI,Medical Store,2025-03
+2025-04-08,Bills,2597,Cash,Movie Ticket,2025-04
+2025-01-25,Transport,1510,Cash,Electricity Bill,2025-01
+2025-02-09,Shopping,4346,UPI,Movie Ticket,2025-02
+2025-04-16,Shopping,4057,UPI,Restaurant,2025-04
+2025-02-20,Bills,2954,Cash,Uber Ride,2025-02
+2025-04-05,Food,3866,Credit Card,Books Purchase,2025-04
+2025-01-07,Entertainment,2901,Credit Card,Books Purchase,2025-01
+2025-03-04,Food,4197,Debit Card,Medical Store,2025-03
+2025-01-11,Transport,1481,Credit Card,Books Purchase,2025-01
+2025-03-10,Shopping,3167,Debit Card,Restaurant,2025-03
+2025-04-23,Education,2211,Cash,Amazon Purchase,2025-04
+2025-01-16,Shopping,3025,Cash,Movie Ticket,2025-01
+2025-04-20,Bills,4144,Credit Card,Medical Store,2025-04
+2025-04-24,Transport,1421,Cash,Movie Ticket,2025-04
+2025-03-13,Food,971,Debit Card,Movie Ticket,2025-03
+2025-01-29,Education,2722,Debit Card,Electricity Bill,2025-01
+2025-04-30,Healthcare,3752,Credit Card,Restaurant,2025-04
+2025-01-24,Entertainment,2505,Debit Card,Restaurant,2025-01
+2025-01-09,Healthcare,2945,Cash,Books Purchase,2025-01
+2025-04-26,Entertainment,1724,UPI,Amazon Purchase,2025-04
+2025-02-16,Shopping,3423,Cash,Amazon Purchase,2025-02
+2025-02-24,Food,1408,UPI,Movie Ticket,2025-02
+2025-03-28,Entertainment,2267,UPI,Movie Ticket,2025-03
+2025-04-03,Transport,3902,UPI,Restaurant,2025-04
+2025-02-07,Education,4191,Cash,Uber Ride,2025-02
+2025-04-23,Transport,2268,Credit Card,Movie Ticket,2025-04
+2025-04-10,Healthcare,1770,UPI,Medical Store,2025-04
+2025-03-12,Food,4244,Credit Card,Movie Ticket,2025-03
+2025-02-11,Education,784,Debit Card,Amazon Purchase,2025-02
+2025-03-15,Bills,4165,Debit Card,Medical Store,2025-03
+2025-04-03,Food,4528,UPI,Electricity Bill,2025-04
+2025-04-06,Healthcare,4978,Credit Card,Uber Ride,2025-04
+2025-03-01,Bills,469,Debit Card,Amazon Purchase,2025-03
+2025-04-27,Healthcare,3294,Credit Card,Restaurant,2025-04
+2025-01-02,Education,4680,Credit Card,Amazon Purchase,2025-01
+2025-03-12,Entertainment,3177,Credit Card,Uber Ride,2025-03
+2025-01-14,Food,1959,Debit Card,Amazon Purchase,2025-01
+2025-04-04,Shopping,271,UPI,Movie Ticket,2025-04
